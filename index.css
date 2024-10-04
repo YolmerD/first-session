@@ -1,0 +1,43 @@
+/* 
+
+.my-class {
+    color: rgb(255, 0, 0);
+}
+*/
+
+/* 
+    .big = className
+    font-size = property
+    50px = value
+
+*/
+.big {
+    font-size: 50px;
+    background-color: white;
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+} 
+
+.backdrop {
+    background-color: red;
+}
+
+.style {
+    font-style: italic;
+}
+
+.size {
+    width: 800px;
+    height: 400px;
+}
+
+p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.teenager {
+    font-size: 100px;
+}
+
