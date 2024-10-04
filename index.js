@@ -1,5 +1,9 @@
 
 
+// git add . = track all the changes in this folder to be used to push to the cloud
+// git commit -m "{your message} = used to commit and add a message"
+// git push origin main = publish it on your cloud
+
 
 function sayHello() {
     console.log('Hello World')
